@@ -14,6 +14,7 @@
 		91011BA127248144005C99CE /* Learn_By_DoingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91011BA027248144005C99CE /* Learn_By_DoingTests.swift */; };
 		91011BAB27248144005C99CE /* Learn_By_DoingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91011BAA27248144005C99CE /* Learn_By_DoingUITests.swift */; };
 		91011BAD27248144005C99CE /* Learn_By_DoingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91011BAC27248144005C99CE /* Learn_By_DoingUITestsLaunchTests.swift */; };
+		91011BBB27249127005C99CE /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91011BBA27249127005C99CE /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		91011BAA27248144005C99CE /* Learn_By_DoingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_By_DoingUITests.swift; sourceTree = "<group>"; };
 		91011BAC27248144005C99CE /* Learn_By_DoingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_By_DoingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		91011BB9272483F8005C99CE /* Learn-By-Doing-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Learn-By-Doing-Info.plist"; sourceTree = SOURCE_ROOT; };
+		91011BBA27249127005C99CE /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				91011B9127248141005C99CE /* ContentView.swift */,
 				91011B9327248143005C99CE /* Assets.xcassets */,
 				91011B9527248143005C99CE /* Preview Content */,
+				91011BBA27249127005C99CE /* CardView.swift */,
 			);
 			path = "Learn By Doing";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91011B9227248141005C99CE /* ContentView.swift in Sources */,
+				91011BBB27249127005C99CE /* CardView.swift in Sources */,
 				91011B9027248141005C99CE /* Learn_By_DoingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
